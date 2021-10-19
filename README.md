@@ -1,2 +1,2 @@
-# Math_of_Intelligence
- translated notebooks of the class 'Math of Intelligence'
+# Math_of_intelligence
+Korean translation of 'The Math of Intelligence'
